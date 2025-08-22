@@ -1,6 +1,6 @@
 # Union Army Dataset
 ## Determining long-term effects of Tuberculosis Pre-Treatment using Union Army Soldiers
-### Dataset Description
+#### Dataset Description
 <table>
   <thead>
     <tr>
@@ -11,23 +11,23 @@
   <tbody>
     <tr>
       <td>mil</td>
-      <td>stable</td>
+      <td>Regimental, Pension, Compiled Military Service, Carded Medical Records</td>
     </tr>
     <tr>
       <td>dis</td>
-      <td></td>
+      <td>Surgeon's Certificates</td>
     </tr>
     <tr>
       <td>msr</td>
-      <td>topic-*</td>
+      <td>Military Service Records</td>
     </tr>
     <tr>
       <td>cen</td>
-      <td>hotfix-*</td>
+      <td>1850, 1860, 1900, 1910 Federal Census Records</td>
     </tr>
     <tr>
       <td>cmr</td>
-      <td>hotfix-*</td>
+      <td>Carded Medical Records</td>
     </tr>
   </tbody>
 </table>
