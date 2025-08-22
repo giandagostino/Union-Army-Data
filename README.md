@@ -1,5 +1,5 @@
 # Union Army Dataset
-## Determining long-term effects of Tuberculosis Pre-Treatment using Union Army Soldiers
+Determining long-term effects of Tuberculosis Pre-Treatment using Union Army Soldiers
 #### Dataset Description
 <table>
   <thead>
@@ -36,7 +36,7 @@
 
 ## Preliminary Analyses
 
-# Statistical Learning Methods
+## Statistical Learning Methods
 
 
 
