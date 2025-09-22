@@ -32,12 +32,6 @@ Determining long-term effects of Tuberculosis Pre-Treatment using Union Army Sol
   </tbody>  
 </table>
 
-## Data Cleaning
-
-## Preliminary Analyses
-
-## Statistical Learning Methods
-
 
 
 
